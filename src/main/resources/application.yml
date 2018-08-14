@@ -1,9 +1,9 @@
 spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://47.98.119.207:3306/springcloud?useUnicode=true&characterEncoding=utf-8&characterSetResults=utf8
-    username: root
-    password: free98900667!
+    url: jdbc:mysql://47.98.119.207/springcloud?useUnicode=true&characterEncoding=utf-8&characterSetResults=utf8
+    username: cairenhe
+    password: free98900667@
   jpa:
     hibernate:
       ddl-auto: create
